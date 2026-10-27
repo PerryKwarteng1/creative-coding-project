@@ -1,12 +1,12 @@
 # Dear data project
 
-**Front Door Colours: A neighbourhood pallete**
+### Front Door Colours: A neighbourhood pallete
 
-About
+**About**
 
 I will be creative a processing sketch that turns the front doors of my neighbourhood into a colour pallete. I will walk around and record the colour of each front door I pass. One door is one data point.
 
-Data
+**Data**
 
 Each door is one row in the CSV file, with these columns: door_id, date, time, colourn and kerp appeal.
 
